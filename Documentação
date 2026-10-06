@@ -5,6 +5,20 @@ Luan Garcia Rodrigues / Luíz Gustavo
 *Usabilidade*
 Não foi possivel entender sequer algum objetivo presente no jogo você vê três personagens presos e quando anda por cima você vira aquele cujo você está em cima,
 isso parece ser só um detalhezinho não sei era pra acontecer ou se é até considerado Bug pois não tem um texto dizendo se é para isso ou não, você só coleta frutinhas,
-tanto no ar quanto em plataformas, tem como escalar a parede e pula enquanto está escaladas nelas (Wall jump), possuí plataformas que se movem e molas que o lançam para cima.
+tanto no ar quanto em plataformas,tem pulo duplo tem como escalar a parede e pula enquanto está escaladas nelas (Wall jump), possuí plataformas que se movem e molas que o lançam para cima.
 
-Entretanto 
+Entretanto, por mais que use todos esses aspectos de um jogo de plataforma mesmo, não tem um objetivo e ele é muito curto tem 2 cenários, sim um ótimo trabalho na arte no cenário e na música
+do jogo, mas, não é tão divertido de se jogar pela confusão e pouco conteúdo.
+
+*Erros/Bugs*
+
+Irei considerar você se transformar nos personagens um Bug pois não há nenhuma informação direta
+As vezes quando você pula seu sprite muda de direção, como se fosse programado apenas para direita o pulo porque acontece toda hora, a mesma coisa pra escalar se vc apertar outro botão tipo pra baixo 
+ou pra cima você começa a escalar o ar pois seu boneco vira
+Teve uma hora que o personagem só não andava por motivo nenhum.
+
+Só os Bugs gráficos do Sprite são pequena coisa, agora um que te incapacita de jogar é díficil.
+
+*Incrementos*
+
+Eu deixaria mais óbvio o objetivo do jogo, SE TIVER, pois eu não entendi nada, botaria algumas coisas únicas pro personagens se não for um BUG e adicionaria mais conteúdo mais cenários.

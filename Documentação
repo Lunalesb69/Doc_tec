@@ -1,15 +1,15 @@
-Colégio Estadual Alcântara de Carvalho
+#Colégio Estadual Alcântara de Carvalho
 
-Luan Garcia Rodrigues / Luíz Gustavo / José Pedro   
+##Luan Garcia Rodrigues / Luíz Gustavo / José Pedro   
 
-*Usabilidade*
+###*Usabilidade*
 Não foi possivel entender sequer algum objetivo presente no jogo. Você vê três personagens presos e, quando anda por cima, você vira aquele cujo você está em cima, você só coleta frutinhas,
 tanto no ar quanto em plataformas, tem pulo duplo tem como escalar a parede e pula enquanto está escaladas nelas (Wall jump), possuí plataformas que se movem e molas que o lançam para cima.
 
 Entretanto, por mais que use todos esses aspectos de um jogo de plataforma, não tem um objetivo. Ele é muito curto, só tem 2 cenários, possui sim um ótimo trabalho na arte, no cenário e na música
 do jogo, mas não é tão divertido de se jogar pela confusão e pouco conteúdo.
 
-*Erros/Bugs*
+###*Erros/Bugs*
 
 Um provavél debugspot seria os três personagens que podem ser trocados ao passar por cima, oque é intencional para testar os sprites de cada personagem.
 As vezes quando você pula seu sprite muda de direção, como se fosse programado apenas para direita o pulo porque acontece toda hora, a mesma coisa pra escalar se vc apertar outro botão tipo pra baixo 
@@ -18,6 +18,6 @@ Teve uma hora que o personagem só não andava por motivo nenhum.
 As plataformas de movimento podem "flickar" repetidamente quando o jogador fica próximo.
 Debugspot = Áreas secretas ou locais específicos em mapas de jogos criados por desenvolvedores para testar mecânicas, itens, animações e etc.
 
-*Incrementos*
+###*Incrementos*
 
 Eu deixaria mais óbvio o objetivo do jogo, SE TIVER, pois não se entende nada, botaria algumas coisas únicas pro personagens e adicionaria mais conteúdo, com mais cenários e desafios.
